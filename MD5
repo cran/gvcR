@@ -1,0 +1,12 @@
+92907306ce189c43078fbb5438db3609 *DESCRIPTION
+330315b0397c3bdbf5a24ee63c9db1bb *NAMESPACE
+f3d2c4f44e26bed97b20dd655c52b1cf *NEWS.md
+c21b86112be84acb33fe16467a6dbefa *R/gvcR.R
+52a8c346876f49af00ffc53879285292 *R/gvc_gvar.R
+36838cb598073f041a73790f286aa1a1 *R/gvc_herit.R
+a8183f4d632033e2919ac1c81bdd0a71 *R/gvc_pvar.R
+013e48f993d0221ea5add2e32559d77b *README.md
+f843c11fc2be5b094b9f865b1f6cf7e2 *man/gvcR.Rd
+3e220c13bf83c949af969dc5ad384edb *man/gvc_gvar.Rd
+926b7f597f06a29433eda099fbedea66 *man/gvc_herit.Rd
+938fa342b5a9a0807153e9277ae4a9d4 *man/gvc_pvar.Rd
